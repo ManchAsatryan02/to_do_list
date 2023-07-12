@@ -1,0 +1,9 @@
+.list-item:hover{
+    cursor: pointer;
+    background-color: #ccc;
+}
+.no-border {
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+}
